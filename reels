@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, deepak!" << endl;
+
+cout <<"Homepage";
+cout <<"Homepage";cout <<"Homepage";cout <<"Homepage";cout <<"Homepage";cout <<"Homepage";
+
+    return 0;
+}
